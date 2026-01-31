@@ -16,7 +16,7 @@ function calculate ( num1, operator, num2 ) {
       return "error ";
     }
     return num1 % num2;
-  } else {
+  } else {``
     return "nvlid operator";
   }
 }
@@ -59,3 +59,6 @@ while (true) {
 }
   }
 console.log("Goodbye!");
+
+
+
